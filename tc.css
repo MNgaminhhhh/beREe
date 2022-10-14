@@ -1,0 +1,39 @@
+body{
+	font-family: Tahoma;
+	font-size: 14px;
+	width:  1320px;
+	margin: 0px  auto;
+	background: #FFF;
+	box-shadow: rgba(0, 0, 0, 0.8) 0px 3px 10px;
+}
+
+.logo img{
+	width: 80px;
+	float: left;
+	padding-left: 36px;
+	padding-right: 40px;
+	padding-top: 8px;
+}
+.logo #title{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 40px;
+    padding-top: 27px;
+}
+.noidung{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 20px;
+    width:  1320px;
+	margin: 0px  auto;
+	background: #FFF;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 10px;
+    padding-bottom: 10px;
+}
+.noidung .gt1{
+    padding-top: 20px;
+    margin-left: 20px; 
+    font-size: 25px;
+}
+.noidung p {
+    margin-left: 30px;
+
+}
